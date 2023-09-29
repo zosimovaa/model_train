@@ -1,0 +1,22 @@
+g10.3-RealData/logs
+g10.3-RealData/.ipynb_checkpoints
+.idea
+.ipynb_checkpoints
+g10.2-SyntheticData/models
+g10.1-Abstract/models
+g10.2-SyntheticData/logs
+g10.3-RealData/models
+models
+g10.1-Abstract/logs
+g12/g12.3 - stock/train_snapshots/gen12.3-Stock-g11-rewardScale=50/train_results
+g12/g12.3 - stock/train_snapshots/gen12.3-Stock-g11-rewardScale=250/train_results
+g12/g12.3 - stock/train_snapshots
+g12/g12.2 - synthetic/train_snapshots
+g12/logs
+g12/g12.3 - stock/logs
+arch
+datasets
+g12/g12.1 - abstract/logs
+g12/g12.1 - abstract/train_snapshots
+g12/g12.2 - synthetic/logs
+g12/g12.2 - synthetic/01. Стабильность результатов
